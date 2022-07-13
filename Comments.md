@@ -17,3 +17,7 @@ https://datacarpentry.org/R-ecology-lesson/
 
 ## packages in R
 How to search for packages: https://rseek.org/ 
+
+## = vs <- operators
+Comparison between = and <- in R: https://stackoverflow.com/questions/1741820/what-are-the-differences-between-and-assignment-operators
+
