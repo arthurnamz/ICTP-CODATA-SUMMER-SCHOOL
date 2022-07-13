@@ -204,3 +204,7 @@ Other resources (not necessarily R):
 8 MULTIPLE lessons: https://carpentries.org/community-lessons/
 
 If you want to install R and Rstudio in your own computer (for posterity) you can follow this: https://rstudio-education.github.io/hopr/starting.html 
+
+
+## PERSONAL COMMENTS
+if you mean bifurcations Analysis for Ordinary DES, yes: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cran.r-project.org/web/packages/deBif/deBif.pdf
