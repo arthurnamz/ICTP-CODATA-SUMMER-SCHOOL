@@ -202,3 +202,5 @@ Other resources (not necessarily R):
 6. Biology semester long course: https://datacarpentry.org/semester-biology/
 7. Python for atmosphere and ocean scientists: https://carpentries-lab.github.io/python-aos-lesson/
 8 MULTIPLE lessons: https://carpentries.org/community-lessons/
+
+If you want to install R and Rstudio in your own computer (for posterity) you can follow this: https://rstudio-education.github.io/hopr/starting.html 
