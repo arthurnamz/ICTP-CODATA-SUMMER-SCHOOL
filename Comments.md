@@ -21,3 +21,10 @@ How to search for packages: https://rseek.org/
 ## = vs <- operators
 Comparison between = and <- in R: https://stackoverflow.com/questions/1741820/what-are-the-differences-between-and-assignment-operators
 
+## shortcuts
+you can also find all of the shortcuts in here: https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts-in-the-RStudio-IDE
+
+## indexing in R
+https://iq.opengenus.org/array-indices-start-from-1/
+
+
