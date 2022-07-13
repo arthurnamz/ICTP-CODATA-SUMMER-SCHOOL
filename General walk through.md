@@ -207,4 +207,7 @@ If you want to install R and Rstudio in your own computer (for posterity) you ca
 
 
 ## PERSONAL COMMENTS
-if you mean bifurcations Analysis for Ordinary DES, yes: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cran.r-project.org/web/packages/deBif/deBif.pdf
+1. if you mean bifurcations Analysis for Ordinary DES, yes: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cran.r-project.org/web/packages/deBif/deBif.pdf
+
+2. this is one of MANY discussions available online comparing R vs Python for visualization: https://www.inwt-statistics.com/read-blog/data-visualization-R-versus-python.html
+
