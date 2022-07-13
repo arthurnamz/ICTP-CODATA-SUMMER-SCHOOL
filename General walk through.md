@@ -211,3 +211,7 @@ If you want to install R and Rstudio in your own computer (for posterity) you ca
 
 2. this is one of MANY discussions available online comparing R vs Python for visualization: https://www.inwt-statistics.com/read-blog/data-visualization-R-versus-python.html
 
+
+## The book for R
+It is available online, for free: https://r4ds.had.co.nz/
+
