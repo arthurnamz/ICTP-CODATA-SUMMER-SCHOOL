@@ -11,3 +11,7 @@ From :https://www.parsehub.com/blog/web-scraping-vs-data-mining/#:~:text=Web%20s
 
 ## Comments on Rstudio
 so, you can set up your project to not save it. Here you can find how: https://stackoverflow.com/questions/10098189/disable-saving-history
+
+## Notes for R
+https://datacarpentry.org/R-ecology-lesson/
+
