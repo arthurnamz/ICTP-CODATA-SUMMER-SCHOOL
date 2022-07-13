@@ -9,3 +9,5 @@ Data mining does not involve data extraction. In fact, web scraping could be use
 
 From :https://www.parsehub.com/blog/web-scraping-vs-data-mining/#:~:text=Web%20scraping%20refers%20to%20the%20process%20of%20extracting%20data%20from,uncover%20trends%20and%20valuable%20insights.
 
+## Comments on Rstudio
+so, you can set up your project to not save it. Here you can find how: https://stackoverflow.com/questions/10098189/disable-saving-history
