@@ -15,3 +15,5 @@ so, you can set up your project to not save it. Here you can find how: https://s
 ## Notes for R
 https://datacarpentry.org/R-ecology-lesson/
 
+## packages in R
+How to search for packages: https://rseek.org/ 
