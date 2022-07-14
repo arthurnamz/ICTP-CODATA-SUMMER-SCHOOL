@@ -27,4 +27,9 @@ you can also find all of the shortcuts in here: https://support.rstudio.com/hc/e
 ## indexing in R
 https://iq.opengenus.org/array-indices-start-from-1/
 
+Arthur, here is a very quick view of how you can do it: https://rmarkdown.rstudio.com/lesson-5.html this chapter in the book "R for Data Science" is about R Markdown: https://r4ds.had.co.nz/r-markdown.html  First work through this to understand what code chunks mean and how they work. Once you can insert a code chunk, you can choose the language for that specific code chunk. So you can code in R for 
+https://bookdown.org/yihui/rma
+And this page demonstrates how you can do version control inside RStudio: https://learning.nceas.ucsb.edu/2019-11-RRCourse/version-control-with-git-and-github.html
+
+
 
